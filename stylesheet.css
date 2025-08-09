@@ -1,0 +1,40 @@
+p {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+}
+
+.box {
+  max-width: 700px;
+  margin: 20px auto;
+  padding: 16px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}
+
+.profile-pic {
+  width: 300px;
+  height: auto;
+  display: block;
+  margin: 20px auto;
+  border-radius: 10px;
+}
+
+#about-me {
+  padding: 20px;
+  margin: 0;
+}
+
+#links {
+  text-align: center;
+  margin-top: 20px;
+}
+
+#links a {
+  text-decoration: none;
+  font-weight: bold;
+  transition: color 0.2s ease;
+}
+
+#links a:hover {
+  color: violet
+}
